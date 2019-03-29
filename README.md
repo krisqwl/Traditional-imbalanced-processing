@@ -1,4 +1,3 @@
-<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
 # Traditional-imbalanced-processing
 
 ## 样本类别分布不均衡的概念
